@@ -78,8 +78,8 @@ print(tt)
 print(t)
 
 # 9) max() and min() --> to get maximum and minimum element in list
-# o = [11,2,44,55]
-# oo =o.max(o)
-# print(oo)
-# ooo = o.min(o)
-# print(ooo)
+o = [11,2,44,55]
+oo =max(o)
+print(oo)
+ooo = min(o)
+print(ooo)
