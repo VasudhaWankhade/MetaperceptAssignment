@@ -37,7 +37,7 @@ print(100 == 100)
 # or  --> if both false ==> false else true
 # not --> if true ==> false if false ==> true
 
-print(100 ==100 and 200 > 100)
+print(100 == 100 and 200 > 100)
 print(100 > 100 or 10 == 10)
 print(not True)
 
